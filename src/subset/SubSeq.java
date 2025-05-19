@@ -13,9 +13,6 @@ public class SubSeq {
         for (String subSeq : subSeqs) {
             System.out.println(subSeq);
         }
-
-        List<Integer> x = new ArrayList<>();
-        x.size()
     }
 
 
