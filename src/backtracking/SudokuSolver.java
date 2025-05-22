@@ -17,7 +17,7 @@ public class SudokuSolver {
 		if (solveSudokuAlgo(board)) {
 			display(board);
 		} else {
-			System.out.println("No a valid Sudoku!");
+			System.out.println("Not a valid Sudoku!");
 		}
 	}
 	

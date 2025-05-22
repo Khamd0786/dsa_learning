@@ -1,4 +1,4 @@
-package graph.question;
+package graph.bfs.questions;
 
 import java.util.HashSet;
 
